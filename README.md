@@ -109,5 +109,12 @@ A beautiful and functional Hyprland rice with custom animations, scripts, and co
 ## ⚠️ Notes
 
 - `hyprlang` system version (`0.6.6`) is newer than built version (`0.6.3`) — rebuild Hyprland if issues occur.
+
+## Credits
+
+This configuration is built upon the excellent work of [HyDE-Project (HyDE)](https://github.com/HyDE-Project/HyDE).
+Many thanks to the HyDE team for providing a strong foundation and inspiration for this setup!
+
+Original HyDE repository: [https://github.com/HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE)
 - Run `initial-boot.sh` for first-time setup.
 - Monitor profiles are available in `Monitor_Profiles/`.
